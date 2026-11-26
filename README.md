@@ -23,6 +23,9 @@
 - **Automatic recovery** — every display the app turns off is recorded in `UserDefaults` *before* the change is applied. On quit (`quitAppSafely()`, the context menu, ⌘Q, logout) all of them are turned back on, and if the app was force‑quit or crashed, they are restored on the next launch. Changes are also session‑only, so a reboot always brings every display back.
 - **Quick access** — *Arrange…* opens macOS Displays settings; left click opens the popover, right click (or Control‑click) opens a native context menu.
 
+<img width="800" height="696" alt="demo" src="https://github.com/user-attachments/assets/e8b97b0c-2e5c-4198-b4cc-3faeb4c1308c" />
+
+
 ## Requirements
 
 | | |
