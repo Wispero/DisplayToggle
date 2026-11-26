@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Build output
+build/
+.build/
+DerivedData/
+*.app
+*.dSYM/
+*.o
+
+# Stray compiled binaries in the repo root
+/DisplayToggle
+
+# Xcode / SwiftPM user data
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+.swiftpm/
+Package.resolved
+
+# Signing material (never commit)
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.cer
+
+# Editors and temp files
+.vscode/
+.idea/
+*.swp
+*~
+*.tmp
+*.log
