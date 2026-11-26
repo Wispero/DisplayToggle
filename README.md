@@ -95,3 +95,11 @@ toggledisplay.png            App icon artwork
 DisplayToggle is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License v3.0** as published by the Free Software Foundation. See [`LICENSE`](LICENSE) for the full text.
 
 This program is distributed in the hope that it will be useful, but **without any warranty**; without even the implied warranty of merchantability or fitness for a particular purpose.
+
+---
+
+## Support
+
+If DisplayToggle saved you from constantly unplugging cables or digging through System Settings, consider buying me a coffee:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wispero)
